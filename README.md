@@ -1,4 +1,5 @@
-FLIGHTS APP: Flight-finder
+#FLIGHTS APP: Flight-finder
+
 Before running on local host, get the air scraper api key from https://rapidapi.com/apiheya/api/sky-scrapper and place it in the corresponding header in the files in the services folder.
 # Getting Started with Create React App
 
